@@ -1,4 +1,20 @@
 - url: https://westervelt.com
-  output: shot.png
-  height: 800
+  output: desktop.png
+  width: 1440
+  wait: 5000
+- url: https://westervelt.com
+  output: laptop.png
+  width: 1024
+  wait: 5000
+- url: https://westervelt.com
+  output: tablet.png
+  width: 768
+  wait: 5000
+- url: https://westervelt.com
+  output: phone-lg.png
+  width: 425
+  wait: 5000
+ - url: https://westervelt.com
+  output: phone-sm.png
+  width: 320
   wait: 5000
