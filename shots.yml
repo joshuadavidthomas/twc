@@ -14,7 +14,7 @@
   output: phone-lg.png
   width: 425
   wait: 5000
- - url: https://westervelt.com
+- url: https://westervelt.com
   output: phone-sm.png
   width: 320
   wait: 5000
