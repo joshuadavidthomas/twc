@@ -1,4 +1,4 @@
 - url: https://westervelt.com
   output: shot.png
   height: 800
-  wait: 2000
+  wait: 3000
